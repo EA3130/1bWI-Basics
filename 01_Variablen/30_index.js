@@ -1,4 +1,4 @@
 let a = Banana 
-Let b = Apple 
+let b = Apple 
 
 let bananaPricePerKilo = 2.14
