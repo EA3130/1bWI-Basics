@@ -1,6 +1,5 @@
-let a = Banana 
-let b = Apple 
-
-let c = bananaPricePerKilo 2.14
-let d = applePricePerKilo
-let apple = 0.34 kilo
+Let apple = 0.34
+let banana = 0.22
+let 2.14 = 1
+let 3.43 = 1
+console.log(apple * 5)
