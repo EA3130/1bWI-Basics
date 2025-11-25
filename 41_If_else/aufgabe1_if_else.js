@@ -6,8 +6,8 @@ let a = 10
 
 if (a >= 0) {
     console.log("the number is Positive");
-} else (a <= 0) {
+} else (a <= 0) ;{
     console.log("the number is Negative");
-} else (a == 0) {
+} else (a == 0) ;{
     console.log("the number is zero");
 }
